@@ -1,4 +1,4 @@
-﻿name: "Release"
+name: "Release"
 
 on:
   push:
@@ -34,5 +34,5 @@ jobs:
           tagName: ${{ github.ref_name }}
           releaseName: "Valorant Buddy ${{ github.ref_name }}"
           releaseBody: "See the assets below to download and install this version."
-          draft: false
+          releaseDraft: false
           prerelease: false
