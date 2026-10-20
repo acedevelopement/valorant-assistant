@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "Valorant Buddy",
   "version": "0.1.0",
@@ -38,16 +38,16 @@
       "icons/icon.ico"
     ],
     "publisher": "Mahad Ansar",
-    "copyright": "© 2026 Mahad Ansar · Ace Development",
+    "copyright": "Â© 2026 Mahad Ansar Â· Ace Development",
     "category": "Utility",
     "shortDescription": "Valorant companion app",
-    "longDescription": "Valorant Buddy — a Windows desktop companion for VALORANT."
+    "longDescription": "Valorant Buddy â€” a Windows desktop companion for VALORANT."
   },
   "plugins": {
     "updater": {
       "active": true,
       "dialog": false,
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDY5MTU2NEI5Q0QzNDdBRTEKUldUaGVqVE51V1FWYVNyQkl1b2hIaUJUVGZLVE14cXRVWkVNUk9KRXoxRjNhREViamErRzIxUFQK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDdCMDRDMTU4N0VDQTlCNkUKUldSdW04cCtXTUVFZXhBajJYdkZ1Wmhmd1ZVQ1dmc052Z1gwSlR5T1pSQmhscW0vTkRlYXB0eHMK",
       "endpoints": [
         "https://github.com/acedevelopement/valorant-assistant/releases/latest/download/latest.json"
       ]
